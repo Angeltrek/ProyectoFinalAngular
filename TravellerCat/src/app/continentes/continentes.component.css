@@ -1,0 +1,44 @@
+.continent-header{
+    width: 100%;
+    height: 1080px;
+    background-color: rgb(39, 39, 39);
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.continent-header img{
+    opacity: 0.25;
+}
+
+.continent-header .continent-info{
+    color: #fff;
+    position: relative;
+    bottom: 55%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.continent-header h2{
+    font-size: 10vw;
+}
+
+.info-style-1{
+    margin: 5rem 0;
+}
+
+.info-style-1 img{
+    height: 100%;
+    max-height: 8000px;
+    min-height: 500px;
+}
+
+.info-style-2 {
+    margin: 5rem 0;
+}
+.info-style-2 .row{
+    margin: 3rem 0;
+}
